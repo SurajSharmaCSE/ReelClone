@@ -8,12 +8,12 @@ import 'firebase/compat/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCbyyW6nx_nMWXkcsp7DfL5cTZj5M1o8dk",
-  authDomain: "reels-839c5.firebaseapp.com",
-  projectId: "reels-839c5",
-  storageBucket: "reels-839c5.appspot.com",
-  messagingSenderId: "235859540876",
-  appId: "1:235859540876:web:10b334434e243d32cc34a9"
+  apiKey: "AIzaSyB-mcCgNbKnP1x-DXDYylHnFgMznZ3Sdp0",
+  authDomain: "reelclone-aaa97.firebaseapp.com",
+  projectId: "reelclone-aaa97",
+  storageBucket: "reelclone-aaa97.firebasestorage.app",
+  messagingSenderId: "492900557716",
+  appId: "1:492900557716:web:1e2ceb93fa7d0445ed2581"
 };
 
 // Initialize Firebase

@@ -15,8 +15,6 @@ import {Link,useHistory} from  'react-router-dom';
 import { AuthContext } from '../Context/AuthContext';
 import { database,storage } from '../firebase';
 
-
-
 export default function Signup() {
     const useStyles = makeStyles({
         text1:{
